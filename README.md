@@ -1,12 +1,3 @@
-<h1 align="center">
-  <b>  </b>
-</h1>
-
-<p align="center" > <img alt="GitHub forks" src="https://img.shields.io/github/forks/Tellybots/Uploader-Bot?label=%F0%9F%8D%B4Forks&logoColor=blue&style=social">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Tellybots/Uploader-Bot?label=%E2%AD%90%EF%B8%8FStars&logoColor=blue&style=social"> </p>
-
-<p align="center"><a href="https://github.com/Tellybots/Uploader-Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Tellybots&show_icons=true&theme=dracula&hide_border=true&repo=Uploader-Bot"></a></p>
-
 
 
   
