@@ -16,7 +16,7 @@
   ],
   "success_url": "",
   "website": "https://github.com/MKKABot",
-  "repository": "https://github.com/MKKABot",
+  "repository": "https://github.com/MKKABot/URL-Uploader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
