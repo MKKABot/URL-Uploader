@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Deploy%20To Heroku-purple?style=for-the-badge&logo=Heroku" alt="herokudeploy-01" border="0" height="30" width="200"></a>
 </p>
 
-## `Bot Credit :- @ShriMadhavUk, Dc4Warrior, @DkBotz`
+
 
 
 Dev Branch Is Only For Testing Repo So Better Don't Use Dev Branch
